@@ -1,6 +1,6 @@
 # Data Stuctures Study Guide
 
-##Stacks:
+## Stacks:
 
 Stack() and two practice problems:
 
